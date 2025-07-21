@@ -14,12 +14,12 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Screenshot
 
-![](/assets/images/screenshot.png)
+![](/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/eni-adew/Blog-Card-Preview)
-- Live Site URL: [Vercel](https://blog-card-preview-xi.vercel.app/)
+- Solution URL: [Github](https://github.com/eni-adew/Fylo-Data-Storage-Component)
+- Live Site URL: [Vercel](https://fylo-data-storage-component-liard.vercel.app/)
 
 ### Built with
 
